@@ -1,4 +1,4 @@
-# emoto_prac1
+Emotorad Assignment
 
 Inventory Management App
 

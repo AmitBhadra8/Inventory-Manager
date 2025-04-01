@@ -1,16 +1,6 @@
 # emoto_prac1
 
-A new Flutter project.
+Inventory Management App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Google Sheet Link : https://docs.google.com/spreadsheets/d/1Gm6keVBiwcGbf9CDlk21tX05im8ZhM70N-Fuq2icEkU/edit?usp=sharing
+Google App Script deployment link : https://script.google.com/macros/s/AKfycbzJDA_8hm_rT8w6sJ8AshMG-dmwqOJZFfu4EhIjLOPeGXMRgDl5gEg9so22wBw6d6C3/exec
